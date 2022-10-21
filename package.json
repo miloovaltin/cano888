@@ -1,0 +1,16 @@
+{
+"name": "cano888",
+"theme": "cano888",
+"version": "2.6.5",
+"description": "cano888 สมัครเว็บไซต์พนันเว็บตรง ไม่ผ่านเอเย่นต์ รับเงินเครดิตฟรี",
+"keywords": [
+"cano888",
+"cano888 เครดิตฟรี",
+"cano888 ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/cano888",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
